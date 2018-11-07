@@ -1,2 +1,4 @@
-# cities
-cities
+# Cities
+ - Seattle
+ - Tacoma
+ - New York
